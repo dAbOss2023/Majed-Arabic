@@ -1,1 +1,1 @@
- // Placeholder – code comes next step
+class ElCinemaProvider
