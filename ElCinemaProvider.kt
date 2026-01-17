@@ -1,1 +1,2 @@
-class ElCinemaProvider
+class ElCinemaProvider {
+}
